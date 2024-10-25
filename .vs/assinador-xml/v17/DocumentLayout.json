@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usu\u00E1rio\\Desktop\\poc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD787739-BE0D-4B40-9ED0-5A240D437B85}|assinador-xml\\assinador-xml.csproj|d:\\usu\u00E1rio\\desktop\\poc\\assinador-xml\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD787739-BE0D-4B40-9ED0-5A240D437B85}|assinador-xml\\assinador-xml.csproj|solutionrelative:assinador-xml\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD787739-BE0D-4B40-9ED0-5A240D437B85}|assinador-xml\\assinador-xml.csproj|d:\\usu\u00E1rio\\desktop\\poc\\assinador-xml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD787739-BE0D-4B40-9ED0-5A240D437B85}|assinador-xml\\assinador-xml.csproj|solutionrelative:assinador-xml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rio\\Desktop\\poc\\assinador-xml\\Program.cs",
+              "RelativeDocumentMoniker": "assinador-xml\\Program.cs",
+              "ToolTip": "D:\\Usu\u00E1rio\\Desktop\\poc\\assinador-xml\\Program.cs",
+              "RelativeToolTip": "assinador-xml\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:08:32.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Xml.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rio\\Desktop\\poc\\assinador-xml\\Xml.cs",
+              "RelativeDocumentMoniker": "assinador-xml\\Xml.cs",
+              "ToolTip": "D:\\Usu\u00E1rio\\Desktop\\poc\\assinador-xml\\Xml.cs",
+              "RelativeToolTip": "assinador-xml\\Xml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:08:30.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

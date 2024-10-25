@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGDie4iIh4w=",
+  "success": true,
+  "projectFilePath": "D:\\Usuário\\Desktop\\poc\\assinador-xml\\assinador-xml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
